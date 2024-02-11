@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rozan Naufal Latukau</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Mern(Mongo DB, Express JS, React JS and Node JS). and also Laravel**
+- 🌱 I’m currently learning **Mern(Mongodb, Express JS, React JS and Node JS) Laravel and Flutter**
 
 - 📫 How to reach me **iyanlatu@gmail.com**
 
