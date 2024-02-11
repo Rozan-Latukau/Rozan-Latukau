@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozan-latukau&label=Profile%20views&color=0e75b6&style=flat" alt="rozan-latukau" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rozan-latukau" alt="rozan-latukau" /></a> </p>
-
 - 🌱 I’m currently learning **Mern(Mongodb, Express JS, React JS and Node JS), Laravel and Flutter**
 
 - 📫 How to reach me **iyanlatu@gmail.com**
