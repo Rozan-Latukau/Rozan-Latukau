@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rozan Naufal Latukau</h1>
 <h3 align="center">Software Developer</h3>
 
+- 🌱 I’m currently learning **Mern(Mongo DB, Express JS, React JS and Node JS). and also Laravel**
+
+- 📫 How to reach me **iyanlatu@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rozan-naufal-latukau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rozan-naufal-latukau" height="30" width="40" /></a>
